@@ -1,5 +1,5 @@
 ========================
-Molecular Complexity
+Molecular Complexity MC1 and MC2 Calculation
 ========================
 
 
@@ -11,7 +11,8 @@ Molecular Complexity
         :alt: Documentation Status
 
 
-Molecular Complexity MC1 and MC2 Calculation
+
+Molecular Complexity directory structure::
 
     Molecular Complexity
     ├── AUTHORS.rst
