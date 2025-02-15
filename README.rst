@@ -29,6 +29,8 @@ Molecular Complexity directory structure::
     │   ├── Makefile
     │   ├── readme.rst
     │   └── usage.rst
+    ├──notebook
+    │   └──MC1_MC2_calculation.ipynb
     ├── HISTORY.rst
     ├── LICENSE
     ├── Makefile
