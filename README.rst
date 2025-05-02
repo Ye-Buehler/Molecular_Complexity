@@ -1,5 +1,5 @@
 ========================
-Molecular Complexity MC1 and MC2 Calculation
+A View on Molecular Complexity from the GDB Chemical Space 
 ========================
 
 
@@ -10,12 +10,10 @@ Molecular Complexity MC1 and MC2 Calculation
         :target: https://gdb-molecular-complexity.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
-# A View on Molecular Complexity from the GDB Chemical Space 
+* Thank you for your interest in this repo complementing the "[A View on Molecular Complexity from the GDB Chemical Space ](https:// )" publication.
 
-Thank you for your interest in this repo complementing the "[A View on Molecular Complexity from the GDB Chemical Space ](https:// )" publication.
-
-MC1: MC1 = 1 – FDV; FDV = fraction of divalent nodes in the molecular graph
-MC2: MC2 = NDV, with NDV = number of non-divalent nodes, not counting those in (C=O) belonging to (C=O)X groups, X = N, O
+* MC1: MC1 = 1 – FDV; FDV = fraction of divalent nodes in the molecular graph
+* MC2: MC2 = NDV, with NDV = number of non-divalent nodes, not counting those in (C=O) belonging to (C=O)X groups, X = N, O
 
 
 Molecular Complexity directory structure::
