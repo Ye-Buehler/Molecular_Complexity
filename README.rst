@@ -16,7 +16,7 @@ Thank you for your interest in this repository, which complements the publicatio
 .. image:: https://github.com/Ye-Buehler/Molecular_Complexity/blob/main/docs/mc.jpg
    :alt: GA
    :align: center
-   :width: 500px
+   :width: 400px
 
 * MC1 = 1 – FDV; FDV = fraction of divalent nodes in the molecular graph
 * MC2 = NDV, with NDV = number of non-divalent nodes, not counting those in (C=O) belonging to (C=O)X groups, X = N, O
