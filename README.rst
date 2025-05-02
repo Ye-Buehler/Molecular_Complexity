@@ -10,7 +10,13 @@ A View on Molecular Complexity from the GDB Chemical Space
         :target: https://gdb-molecular-complexity.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
-* Thank you for your interest in this repo complementing the "[A View on Molecular Complexity from the GDB Chemical Space ](https:// )" publication.
+Thank you for your interest in this repository, which complements the publication 
+"`A View on Molecular Complexity from the GDB Chemical Space <https://>`_".
+
+.. image:: https://github.com/Ye-Buehler/Molecular_Complexity/blob/main/docs/mc.jpg
+   :alt: GA
+   :align: center
+   :width: 500px
 
 * MC1 = 1 – FDV; FDV = fraction of divalent nodes in the molecular graph
 * MC2 = NDV, with NDV = number of non-divalent nodes, not counting those in (C=O) belonging to (C=O)X groups, X = N, O
