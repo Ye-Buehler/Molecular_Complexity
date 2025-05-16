@@ -11,7 +11,7 @@ A View on Molecular Complexity from the GDB Chemical Space
         :alt: Documentation Status
 
 Thank you for your interest in this repository, which complements the publication 
-"`A View on Molecular Complexity from the GDB Chemical Space <https://>`_".
+"`A View on Molecular Complexity from the GDB Chemical Space <https://pubs.acs.org/doi/10.1021/acs.jcim.5c00334>`_".
 
 .. image:: https://github.com/Ye-Buehler/Molecular_Complexity/blob/main/docs/mc.jpg
    :alt: GA
