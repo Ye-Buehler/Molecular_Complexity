@@ -66,9 +66,10 @@ Synthesizability
 * SCS	Machine-learned score from 12 million reaction in Reaxys predicting the number of steps required for synthesis from common starting material from the ECFP4 fingerprint as input, with maximum value 5	
 --> Coley, C. W.; Rogers, L.; Green, W. H.; Jensen, K. F. SCScore: Synthetic Complexity Learned from a Reaction Corpus. J. Chem. Inf. Model. 2018, 58 (2), 252–261. https://doi.org/10.1021/acs.jcim.7b00622.
 
+License
+--------
 
 * Free software: MIT license
-* Documentation: https://gdb-molecular-complexity.readthedocs.io.
 
 
 Features
