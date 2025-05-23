@@ -115,11 +115,6 @@ License
 * Free software: MIT license
 
 
-Features
---------
-
-* TODO
-
 Credits
 -------
 
