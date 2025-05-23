@@ -45,6 +45,12 @@ Metrics in this work
 Other complexity metrics
 --------
 
+- FCFP4: Number of on-bits in a binary 2048-bit FCFP4 fingerprint [Schuffenhauer2006]_.
+
+.. [Schuffenhauer2006] Schuffenhauer, A.; Brown, N.; Selzer, P.; Ertl, P.; Jacoby, E. 
+   *Relationships between Molecular Complexity, Biological Activity, and Structural Diversity*. 
+   J. Chem. Inf. Model. **2006**, *46*(2), 525–535. https://doi.org/10.1021/ci0503558
+
 * FCFP4	Number of on-bits in a binary 2048-bit FCFP4 fingerprint	
 --> Schuffenhauer, A.; Brown, N.; Selzer, P.; Ertl, P.; Jacoby, E. Relationships between Molecular Complexity, Biological Activity, and Structural Diversity. J. Chem. Inf. Model. 2006, 46 (2), 525–535. https://doi.org/10.1021/ci0503558.
 
