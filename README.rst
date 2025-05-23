@@ -30,13 +30,15 @@ All Ten Metrics used in the paper
     │   └── MC1_MC2_calculation.ipynb
     │   └── Other_8_metrics.ipynb
 
-This work::	
+Metrics in this work
+--------
 
 * MC1	Fraction of non-divalent nodes in the molecular graph	
 * MC2	Number of non-divalent nodes not considering C=O groups in N-(C=O) and O-(C=O) substructures	
 --> A View on Molecular Complexity from the GDB Chemical Space Ye Buehler and Jean-Louis Reymond, J. Chem. Inf. Model., 2025, doi/10.1021/acs.jcim.5c00334
 
-Other complexity metrics::
+Other complexity metrics
+--------
 
 * FCFP4	Number of on-bits in a binary 2048-bit FCFP4 fingerprint	
 --> Schuffenhauer, A.; Brown, N.; Selzer, P.; Ertl, P.; Jacoby, E. Relationships between Molecular Complexity, Biological Activity, and Structural Diversity. J. Chem. Inf. Model. 2006, 46 (2), 525–535. https://doi.org/10.1021/ci0503558.
@@ -55,7 +57,8 @@ Other complexity metrics::
 * nSPS	SPS normalized to heavy atom count	
 --> Krzyzanowski, A.; Pahl, A.; Grigalunas, M.; Waldmann, H. Spacial Score─A Comprehensive Topological Indicator for Small-Molecule Complexity. J. Med. Chem. 2023, 66 (18), 12739–12750. https://doi.org/10.1021/acs.jmedchem.3c00689.
 
-Synthesizability::
+Synthesizability
+--------
 
 * SAscore	Presence of fragments frequently encountered in PubChem molecules combined with a complexity penalty considering ring types, stereochemistry and molecule size
 --> Ertl, P.; Schuffenhauer, A. Estimation of Synthetic Accessibility Score of Drug-like Molecules Based on Molecular Complexity and Fragment Contributions. J. Cheminformatics 2009, 1 (1), 8. https://doi.org/10.1186/1758-2946-1-8.
