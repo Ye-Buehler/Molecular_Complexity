@@ -22,8 +22,8 @@ Thank you for your interest in this repository, which complements the publicatio
 * MC2 = NDV, with NDV = number of non-divalent nodes, not counting those in (C=O) belonging to (C=O)X groups, X = N, O
 
 
-All Ten Metrics used in the paper
-=================================
+Code for All Ten Metrics Used in the Paper (Located in `Molecular_Complexity/notebook/`)
+========================================================================================
 
 .. code-block:: text
 
