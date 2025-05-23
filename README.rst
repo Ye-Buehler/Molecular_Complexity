@@ -35,7 +35,7 @@ Codes for All Ten Metrics Used in the Paper (Located in `Molecular_Complexity/no
 Description and References
 ==========================
 
-(1) Metrics in this work:
+(1) Metrics in This Work:
 --------
 
 - **MC1**: Fraction of non-divalent nodes in the molecular graph [Buehler2025]_  
@@ -44,7 +44,7 @@ Description and References
 .. [Buehler2025] Buehler, Y.; Reymond, J.-L. *A View on Molecular Complexity from the GDB Chemical Space*. 
    J. Chem. Inf. Model. **2025**. https://doi.org/10.1021/acs.jcim.5c00334
 
-(2) Other complexity metrics:
+(2) Other Complexity Metrics:
 --------
 
 - **FCFP4**: Number of on-bits in a binary 2048-bit FCFP4 fingerprint [Schuffenhauer2006]_.
@@ -118,7 +118,7 @@ License
 Credits
 -------
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+* This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
