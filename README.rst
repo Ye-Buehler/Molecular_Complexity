@@ -35,7 +35,7 @@ Metrics in this work
 
 * MC1	Fraction of non-divalent nodes in the molecular graph	
 * MC2	Number of non-divalent nodes not considering C=O groups in N-(C=O) and O-(C=O) substructures	
---> A View on Molecular Complexity from the GDB Chemical Space Ye Buehler and Jean-Louis Reymond, J. Chem. Inf. Model., 2025, doi/10.1021/acs.jcim.5c00334
+--> A View on Molecular Complexity from the GDB Chemical Space Ye Buehler and Jean-Louis Reymond, J. Chem. Inf. Model., 2025, https://doi/10.1021/acs.jcim.5c00334
 
 Other complexity metrics
 --------
