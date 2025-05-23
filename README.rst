@@ -22,42 +22,12 @@ Thank you for your interest in this repository, which complements the publicatio
 * MC2 = NDV, with NDV = number of non-divalent nodes, not counting those in (C=O) belonging to (C=O)X groups, X = N, O
 
 
-Molecular Complexity directory structure::
+All Ten Metrics used in the paper::
 
     Molecular Complexity
-    ├── AUTHORS.rst
-    ├── CODE_OF_CONDUCT.rst
-    ├── CONTRIBUTING.rst
-    ├── docs
-    │   ├── authors.rst
-    │   ├── conf.py
-    │   ├── contributing.rst
-    │   ├── history.rst
-    │   ├── index.rst
-    │   ├── installation.rst
-    │   ├── make.bat
-    │   ├── Makefile
-    │   ├── readme.rst
-    │   └── usage.rst
     ├──notebook
-    │   └──MC1_MC2_calculation.ipynb
-    ├── HISTORY.rst
-    ├── LICENSE
-    ├── Makefile
-    ├── MANIFEST.in
-    ├── pyproject.toml
-    ├── README.rst
-    ├── requirements_dev.txt
-    ├── ruff.toml
-    ├── src
-    │   └── gdb_molecular_complexity
-    │       ├── cli.py
-    │       ├── gdb_molecular_complexity.py
-    │       └── __init__.py
-    ├── tests
-    │   ├── __init__.py
-    │   └── test_gdb_molecular_complexity.py
-    └── tox.ini
+    │   └── MC1_MC2_calculation.ipynb
+    │   └── Other_8_metrics.ipynb
 
 * Free software: MIT license
 * Documentation: https://gdb-molecular-complexity.readthedocs.io.
