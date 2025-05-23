@@ -23,12 +23,14 @@ Thank you for your interest in this repository, which complements the publicatio
 
 
 All Ten Metrics used in the paper
---------
+=================================
 
-    Molecular Complexity
-    ├──notebook
-    │   └── MC1_MC2_calculation.ipynb
-    │   └── Other_8_metrics.ipynb
+.. code-block:: text
+
+    Molecular Complexity/
+    └── notebook/
+        ├── MC1_MC2_calculation.ipynb
+        └── Other_8_metrics.ipynb
 
 Metrics in this work
 --------
