@@ -59,19 +59,41 @@ Description and References
 
 - **nSPS**: SPS normalized to heavy atom count [Krzyzanowski2023]_.
 
-.. [Schuffenhauer2006] Schuffenhauer, A.; Brown, N.; Selzer, P.; Ertl, P.; Jacoby, E. 
-   *Relationships between Molecular Complexity, Biological Activity, and Structural Diversity*. 
-   J. Chem. Inf. Model. **2006**, *46*(2), 525–535. https://doi.org/10.1021/ci0503558
+.. [Schuffenhauer2006]
+   Schuffenhauer, A.; Brown, N.; Selzer, P.; Ertl, P.; Jacoby, E.
+   *Relationships between Molecular Complexity, Biological Activity, and Structural Diversity*.
+   J. Chem. Inf. Model. **2006**, *46*(2), 525–535.
+   https://doi.org/10.1021/ci0503558
 
-.. [Sander2015] Sander, T.; Freyss, J.; von Korff, M.; Rufener, C. *DataWarrior: An Open-Source Program For Chemistry Aware Data Visualization And Analysis*. J. Chem. Inf. Model. **2015**, *55*(2), 460–473. https://doi.org/10.1021/ci500588j
+.. [Sander2015]
+   Sander, T.; Freyss, J.; von Korff, M.; Rufener, C.
+   *DataWarrior: An Open-Source Program for Chemistry Aware Data Visualization and Analysis*.
+   J. Chem. Inf. Model. **2015**, *55*(2), 460–473.
+   https://doi.org/10.1021/ci500588j
 
-.. [Korff2019] von Korff, M.; Sander, T. *Molecular Complexity Calculated by Fractal Dimension*. Sci. Rep. **2019**, *9*(1), 967. https://doi.org/10.1038/s41598-018-37253-8
+.. [Korff2019]
+   von Korff, M.; Sander, T.
+   *Molecular Complexity Calculated by Fractal Dimension*.
+   Sci. Rep. **2019**, *9*(1), 967.
+   https://doi.org/10.1038/s41598-018-37253-8
 
-.. [Boettcher2016] Böttcher, T. *An Additive Definition of Molecular Complexity*. J. Chem. Inf. Model. **2016**, *56*(3), 462–470. https://doi.org/10.1021/acs.jcim.5b00723
+.. [Boettcher2016]
+   Böttcher, T.
+   *An Additive Definition of Molecular Complexity*.
+   J. Chem. Inf. Model. **2016**, *56*(3), 462–470.
+   https://doi.org/10.1021/acs.jcim.5b00723
 
-.. [Proudfoot2017] Proudfoot, J. R. *A Path Based Approach to Assessing Molecular Complexity*. Bioorg. Med. Chem. Lett. **2017**, *27*(9), 2014–2017. https://doi.org/10.1016/j.bmcl.2017.03.008
+.. [Proudfoot2017]
+   Proudfoot, J. R.
+   *A Path Based Approach to Assessing Molecular Complexity*.
+   Bioorg. Med. Chem. Lett. **2017**, *27*(9), 2014–2017.
+   https://doi.org/10.1016/j.bmcl.2017.03.008
 
-.. [Krzyzanowski2023] Krzyzanowski, A.; Pahl, A.; Grigalunas, M.; Waldmann, H. *Spacial Score─A Comprehensive Topological Indicator for Small-Molecule Complexity*. J. Med. Chem. **2023**, *66*(18), 12739–12750. https://doi.org/10.1021/acs.jmedchem.3c00689
+.. [Krzyzanowski2023]
+   Krzyzanowski, A.; Pahl, A.; Grigalunas, M.; Waldmann, H.
+   *Spacial Score—A Comprehensive Topological Indicator for Small-Molecule Complexity*.
+   J. Med. Chem. **2023**, *66*(18), 12739–12750.
+   https://doi.org/10.1021/acs.jmedchem.3c00689
 
 (3) Synthesizability:
 --------
