@@ -59,6 +59,7 @@ Description and References
 
 - **nSPS**: SPS normalized to heavy atom count [Krzyzanowski2023]_.
 
+
 .. [Schuffenhauer2006]
    Schuffenhauer, A.; Brown, N.; Selzer, P.; Ertl, P.; Jacoby, E.
    *Relationships between Molecular Complexity, Biological Activity, and Structural Diversity*.
@@ -94,6 +95,7 @@ Description and References
    *Spacial Score—A Comprehensive Topological Indicator for Small-Molecule Complexity*.
    J. Med. Chem. **2023**, *66*(18), 12739–12750.
    https://doi.org/10.1021/acs.jmedchem.3c00689
+
 
 (3) Synthesizability:
 --------
